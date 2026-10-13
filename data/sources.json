@@ -1,0 +1,215 @@
+[
+  {
+    "id": "os-terminology",
+    "title": "Anatomy and Physiology 2e: Anatomical Terminology",
+    "organization": "OpenStax, Rice University",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-6-anatomical-terminology",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "os-skull",
+    "title": "Anatomy and Physiology 2e: The Skull",
+    "organization": "OpenStax, Rice University",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/7-2-the-skull",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "os-spine",
+    "title": "Anatomy and Physiology 2e: The Vertebral Column",
+    "organization": "OpenStax, Rice University",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/7-3-the-vertebral-column",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "os-thorax",
+    "title": "Anatomy and Physiology 2e: The Thoracic Cage",
+    "organization": "OpenStax, Rice University",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/7-4-the-thoracic-cage",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "os-shoulder-bones",
+    "title": "Anatomy and Physiology 2e: The Pectoral Girdle",
+    "organization": "OpenStax, Rice University",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-1-the-pectoral-girdle",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "os-arm-bones",
+    "title": "Anatomy and Physiology 2e: Bones of the Upper Limb",
+    "organization": "OpenStax, Rice University",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "os-pelvis",
+    "title": "Anatomy and Physiology 2e: The Pelvic Girdle and Pelvis",
+    "organization": "OpenStax, Rice University",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-3-the-pelvic-girdle-and-pelvis",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "os-leg-bones",
+    "title": "Anatomy and Physiology 2e: Bones of the Lower Limb",
+    "organization": "OpenStax, Rice University",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-4-bones-of-the-lower-limb",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "os-axial-muscles",
+    "title": "Anatomy and Physiology 2e: Axial Muscles of the Head, Neck, and Back",
+    "organization": "OpenStax, Rice University",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/11-3-axial-muscles-of-the-head-neck-and-back",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "os-trunk-muscles",
+    "title": "Anatomy and Physiology 2e: Axial Muscles of the Abdominal Wall, and Thorax",
+    "organization": "OpenStax, Rice University",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/11-4-axial-muscles-of-the-abdominal-wall-and-thorax",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "os-arm-muscles",
+    "title": "Anatomy and Physiology 2e: Muscles of the Pectoral Girdle and Upper Limbs",
+    "organization": "OpenStax, Rice University",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "os-leg-muscles",
+    "title": "Anatomy and Physiology 2e: Appendicular Muscles of the Pelvic Girdle and Lower Limbs",
+    "organization": "OpenStax, Rice University",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "os-joint-types",
+    "title": "Anatomy and Physiology 2e: Classification of Joints",
+    "organization": "OpenStax, Rice University",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/9-1-classification-of-joints",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "os-fibrous-joints",
+    "title": "Anatomy and Physiology 2e: Fibrous Joints",
+    "organization": "OpenStax, Rice University",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/9-2-fibrous-joints",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "os-cartilaginous-joints",
+    "title": "Anatomy and Physiology 2e: Cartilaginous Joints",
+    "organization": "OpenStax, Rice University",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/9-3-cartilaginous-joints",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "os-synovial-joints",
+    "title": "Anatomy and Physiology 2e: Synovial Joints",
+    "organization": "OpenStax, Rice University",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "os-selected-joints",
+    "title": "Anatomy and Physiology 2e: Anatomy of Selected Synovial Joints",
+    "organization": "OpenStax, Rice University",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/9-6-anatomy-of-selected-synovial-joints",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "os-movements",
+    "title": "Anatomy and Physiology 2e: Types of Body Movements",
+    "organization": "OpenStax, Rice University",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "os-connective-tissue",
+    "title": "Anatomy and Physiology 2e: Connective Tissue Supports and Protects",
+    "organization": "OpenStax, Rice University",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/4-3-connective-tissue-supports-and-protects",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "os-muscle-structure",
+    "title": "Anatomy and Physiology 2e: Skeletal Muscle",
+    "organization": "OpenStax, Rice University",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/10-2-skeletal-muscle",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "os-muscle-tissue",
+    "title": "Anatomy and Physiology 2e: Muscle Tissue and Motion",
+    "organization": "OpenStax, Rice University",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/4-4-muscle-tissue-and-motion",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "os-bone-structure",
+    "title": "Anatomy and Physiology 2e: Bone Structure",
+    "organization": "OpenStax, Rice University",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/6-3-bone-structure",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "biruni-terminology",
+    "title": "İnsan Anatomisi: Giriş, genel bilgiler",
+    "organization": "Biruni Üniversitesi, Prof. Dr. Davut Özbağ",
+    "url": "https://bem.biruni.edu.tr/pluginfile.php/7311413/course/overviewfiles/%C4%B0nsan%20Anatomisi%20giri%C5%9F,%20genel%20bilgiler.pdf",
+    "accessed": "2026-10-13",
+    "note": "Türkçe terim ve yazım karşılaştırması; tanımlar özgün olarak hazırlanmıştır. / Turkish terminology cross-check; definitions were written independently."
+  },
+  {
+    "id": "hacettepe-kinesiology",
+    "title": "İnsan Anatomisi ve Kineziyoloji: Konu tekrarı soruları",
+    "organization": "Hacettepe Üniversitesi, Spor Bilimleri Fakültesi",
+    "url": "https://yunus.hacettepe.edu.tr/~nazank/REK132&SBR178/REK132%20&SBR178_Konu%20tekrar%3F%20sorular%3F%202016%20Bahar.pdf",
+    "accessed": "2026-10-13",
+    "note": "Türkçe kas adları ve hareket terimleri için kullanılmıştır. / Used to cross-check Turkish muscle names and movement terminology."
+  },
+  {
+    "id": "meb-anatomy",
+    "title": "Anatomi eğitim modülü",
+    "organization": "T.C. Millî Eğitim Bakanlığı",
+    "url": "https://megep.meb.gov.tr/mte_program_modul/moduller_pdf/Anatomi.pdf",
+    "accessed": "2026-10-13",
+    "note": "Türkçe adlandırma karşılaştırması. / Turkish naming cross-check."
+  },
+  {
+    "id": "seer-terminology",
+    "title": "Anatomical Terminology",
+    "organization": "U.S. National Cancer Institute, SEER Training",
+    "url": "https://www.training.seer.cancer.gov/anatomy/body/terminology.html",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "seer-articulations",
+    "title": "Articulations",
+    "organization": "U.S. National Cancer Institute, SEER Training",
+    "url": "https://www.training.seer.cancer.gov/anatomy/skeletal/articulations.html",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "nlm-fascia",
+    "title": "Fascia: MeSH Descriptor Data 2026",
+    "organization": "U.S. National Library of Medicine",
+    "url": "https://meshb.nlm.nih.gov/record/ui?name=Fascia",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "nci-nerve",
+    "title": "NCI Dictionary of Cancer Terms: Nerve",
+    "organization": "U.S. National Cancer Institute",
+    "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/nerve",
+    "accessed": "2026-10-13"
+  },
+  {
+    "id": "os-joint-key-terms",
+    "title": "Anatomy and Physiology 2e: Joints — Key Terms",
+    "organization": "OpenStax, Rice University",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/9-key-terms",
+    "accessed": "2026-10-13"
+  }
+]

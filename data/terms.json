@@ -1,0 +1,2018 @@
+[
+  {
+    "id": "vertebral-column",
+    "category": "bones",
+    "en": "Vertebral column",
+    "tr": "Omurga",
+    "aliases": [
+      "spine",
+      "backbone",
+      "vertebral kolon"
+    ],
+    "definition": {
+      "en": "The body's central bony column, enclosing the spinal canal and supporting the trunk.",
+      "tr": "Omurilik kanalını çevreleyen ve gövdeyi destekleyen merkezi kemik sütunudur."
+    },
+    "sourceIds": [
+      "os-spine",
+      "meb-anatomy"
+    ],
+    "latin": "Columna vertebralis"
+  },
+  {
+    "id": "cervical-vertebrae",
+    "category": "bones",
+    "en": "Cervical vertebrae",
+    "tr": "Boyun omurları",
+    "aliases": [
+      "cervical spine",
+      "servikal omurlar",
+      "C1–C7"
+    ],
+    "definition": {
+      "en": "The seven vertebrae of the neck, named C1 to C7.",
+      "tr": "Boyun bölgesindeki, C1'den C7'ye adlandırılan yedi omurdur."
+    },
+    "sourceIds": [
+      "os-spine",
+      "meb-anatomy"
+    ],
+    "latin": "Vertebrae cervicales"
+  },
+  {
+    "id": "thoracic-vertebrae",
+    "category": "bones",
+    "en": "Thoracic vertebrae",
+    "tr": "Göğüs omurları",
+    "aliases": [
+      "thoracic spine",
+      "torakal omurlar",
+      "T1–T12"
+    ],
+    "definition": {
+      "en": "The twelve vertebrae that articulate with the ribs.",
+      "tr": "Kaburgalarla eklem yapan on iki omurdur."
+    },
+    "sourceIds": [
+      "os-spine",
+      "meb-anatomy"
+    ],
+    "latin": "Vertebrae thoracicae"
+  },
+  {
+    "id": "lumbar-vertebrae",
+    "category": "bones",
+    "en": "Lumbar vertebrae",
+    "tr": "Bel omurları",
+    "aliases": [
+      "lumbar spine",
+      "lomber omurlar",
+      "L1–L5"
+    ],
+    "definition": {
+      "en": "The five large vertebrae between the thoracic spine and sacrum.",
+      "tr": "Göğüs omurları ile sakrum arasındaki beş büyük omurdur."
+    },
+    "sourceIds": [
+      "os-spine",
+      "meb-anatomy"
+    ],
+    "latin": "Vertebrae lumbales"
+  },
+  {
+    "id": "sacrum",
+    "category": "bones",
+    "en": "Sacrum",
+    "tr": "Sakrum",
+    "aliases": [
+      "sağrı kemiği",
+      "sacral bone"
+    ],
+    "definition": {
+      "en": "The fused bone at the spine's base that connects with both hip bones.",
+      "tr": "Omurganın tabanında bulunan ve iki kalça kemiğiyle bağlantı kuran kaynaşmış kemiktir."
+    },
+    "sourceIds": [
+      "os-spine",
+      "meb-anatomy"
+    ],
+    "latin": "Os sacrum"
+  },
+  {
+    "id": "coccyx",
+    "category": "bones",
+    "en": "Coccyx",
+    "tr": "Kuyruk sokumu",
+    "aliases": [
+      "tailbone",
+      "koksiks"
+    ],
+    "definition": {
+      "en": "The small terminal part of the vertebral column, below the sacrum.",
+      "tr": "Omurganın sakrumun altında kalan küçük son bölümüdür."
+    },
+    "sourceIds": [
+      "os-spine",
+      "meb-anatomy"
+    ],
+    "latin": "Os coccygis"
+  },
+  {
+    "id": "rib",
+    "category": "bones",
+    "en": "Rib",
+    "tr": "Kaburga",
+    "aliases": [
+      "costal bone",
+      "kosta"
+    ],
+    "definition": {
+      "en": "A curved bone of the thoracic cage; humans typically have twelve pairs.",
+      "tr": "Göğüs kafesini oluşturan kavisli kemiktir; insanda genellikle on iki çift bulunur."
+    },
+    "sourceIds": [
+      "os-thorax",
+      "meb-anatomy"
+    ],
+    "latin": "Costa"
+  },
+  {
+    "id": "sternum",
+    "category": "bones",
+    "en": "Sternum",
+    "tr": "Göğüs kemiği",
+    "aliases": [
+      "breastbone",
+      "iman tahtası"
+    ],
+    "definition": {
+      "en": "The flat midline chest bone connected to several ribs through cartilage.",
+      "tr": "Göğsün ön orta hattındaki, bazı kaburgalara kıkırdak aracılığıyla bağlanan yassı kemiktir."
+    },
+    "sourceIds": [
+      "os-thorax",
+      "meb-anatomy"
+    ],
+    "latin": "Sternum"
+  },
+  {
+    "id": "clavicle",
+    "category": "bones",
+    "en": "Clavicle",
+    "tr": "Köprücük kemiği",
+    "aliases": [
+      "collarbone",
+      "klavikula"
+    ],
+    "definition": {
+      "en": "The bone linking the sternum to the scapula at the front of the shoulder girdle.",
+      "tr": "Omuz kuşağının önünde, göğüs kemiğini kürek kemiğine bağlayan kemiktir."
+    },
+    "sourceIds": [
+      "os-shoulder-bones",
+      "meb-anatomy"
+    ],
+    "latin": "Clavicula"
+  },
+  {
+    "id": "scapula",
+    "category": "bones",
+    "en": "Scapula",
+    "tr": "Kürek kemiği",
+    "aliases": [
+      "shoulder blade",
+      "skapula",
+      "skapula kemiği"
+    ],
+    "definition": {
+      "en": "A triangular bone behind the rib cage that forms part of the shoulder joint.",
+      "tr": "Göğüs kafesinin arkasındaki, omuz eklemine katılan üçgen kemiktir."
+    },
+    "sourceIds": [
+      "os-shoulder-bones",
+      "meb-anatomy"
+    ],
+    "latin": "Scapula"
+  },
+  {
+    "id": "humerus",
+    "category": "bones",
+    "en": "Humerus",
+    "tr": "Üst kol kemiği",
+    "aliases": [
+      "arm bone",
+      "pazı kemiği"
+    ],
+    "definition": {
+      "en": "The long bone between the shoulder and elbow.",
+      "tr": "Omuz ile dirsek arasında uzanan uzun kemiktir."
+    },
+    "sourceIds": [
+      "os-arm-bones",
+      "meb-anatomy"
+    ],
+    "latin": "Humerus"
+  },
+  {
+    "id": "radius",
+    "category": "bones",
+    "en": "Radius",
+    "tr": "Radius",
+    "aliases": [
+      "spoke bone",
+      "döner kemik"
+    ],
+    "definition": {
+      "en": "The forearm bone on the thumb side in anatomical position.",
+      "tr": "Anatomik duruşta ön kolun başparmak tarafında bulunan kemiktir."
+    },
+    "sourceIds": [
+      "os-arm-bones",
+      "meb-anatomy"
+    ],
+    "latin": "Radius"
+  },
+  {
+    "id": "ulna",
+    "category": "bones",
+    "en": "Ulna",
+    "tr": "Ulna",
+    "aliases": [
+      "elbow bone",
+      "dirsek kemiği"
+    ],
+    "definition": {
+      "en": "The forearm bone on the little-finger side in anatomical position.",
+      "tr": "Anatomik duruşta ön kolun küçük parmak tarafında bulunan kemiktir."
+    },
+    "sourceIds": [
+      "os-arm-bones",
+      "meb-anatomy"
+    ],
+    "latin": "Ulna"
+  },
+  {
+    "id": "pelvis",
+    "category": "bones",
+    "en": "Bony pelvis",
+    "tr": "Kemik pelvis",
+    "aliases": [
+      "pelvis",
+      "leğen",
+      "leğen kemikleri"
+    ],
+    "definition": {
+      "en": "The bony ring formed by the two hip bones, sacrum, and coccyx.",
+      "tr": "İki kalça kemiği, sakrum ve kuyruk sokumunun oluşturduğu kemik halkadır."
+    },
+    "sourceIds": [
+      "os-pelvis",
+      "meb-anatomy"
+    ],
+    "latin": "Pelvis ossea"
+  },
+  {
+    "id": "ilium",
+    "category": "bones",
+    "en": "Ilium",
+    "tr": "İlium",
+    "aliases": [
+      "iliac bone",
+      "kalça kemiğinin üst bölümü"
+    ],
+    "definition": {
+      "en": "The broad upper part of each hip bone.",
+      "tr": "Her kalça kemiğinin geniş üst bölümüdür."
+    },
+    "sourceIds": [
+      "os-pelvis",
+      "meb-anatomy"
+    ],
+    "latin": "Os ilium"
+  },
+  {
+    "id": "ischium",
+    "category": "bones",
+    "en": "Ischium",
+    "tr": "İskiyum",
+    "aliases": [
+      "sitting bone",
+      "oturak kemiği",
+      "oturma kemiği"
+    ],
+    "definition": {
+      "en": "The lower, back part of the hip bone; its tuberosity bears weight during sitting.",
+      "tr": "Kalça kemiğinin alt arka bölümüdür; yumrusu otururken ağırlık taşır."
+    },
+    "sourceIds": [
+      "os-pelvis",
+      "meb-anatomy"
+    ],
+    "latin": "Os ischii"
+  },
+  {
+    "id": "pubis",
+    "category": "bones",
+    "en": "Pubis",
+    "tr": "Pubis",
+    "aliases": [
+      "pubic bone",
+      "çatı kemiği"
+    ],
+    "definition": {
+      "en": "The front part of each hip bone, meeting its opposite at the pubic symphysis.",
+      "tr": "Her kalça kemiğinin öndeki bölümüdür; karşı tarafla pubis simfizinde birleşir."
+    },
+    "sourceIds": [
+      "os-pelvis",
+      "meb-anatomy"
+    ],
+    "latin": "Os pubis"
+  },
+  {
+    "id": "femur",
+    "category": "bones",
+    "en": "Femur",
+    "tr": "Uyluk kemiği",
+    "aliases": [
+      "thigh bone"
+    ],
+    "definition": {
+      "en": "The long thigh bone extending from the hip to the knee.",
+      "tr": "Kalçadan dize uzanan uzun uyluk kemiğidir."
+    },
+    "sourceIds": [
+      "os-leg-bones",
+      "meb-anatomy"
+    ],
+    "latin": "Femur"
+  },
+  {
+    "id": "patella",
+    "category": "bones",
+    "en": "Patella",
+    "tr": "Diz kapağı",
+    "aliases": [
+      "kneecap",
+      "diz kapağı kemiği"
+    ],
+    "definition": {
+      "en": "A sesamoid bone within the quadriceps tendon, in front of the knee.",
+      "tr": "Dizin önünde, kuadriseps tendonu içinde bulunan susamsı kemiktir."
+    },
+    "sourceIds": [
+      "os-leg-bones",
+      "meb-anatomy"
+    ],
+    "latin": "Patella"
+  },
+  {
+    "id": "tibia",
+    "category": "bones",
+    "en": "Tibia",
+    "tr": "Kaval kemiği",
+    "aliases": [
+      "shinbone"
+    ],
+    "definition": {
+      "en": "The larger, medial lower-leg bone that carries most weight transmitted through the leg.",
+      "tr": "Alt bacağın iç tarafındaki, bacaktan geçen yükün çoğunu taşıyan büyük kemiktir."
+    },
+    "sourceIds": [
+      "os-leg-bones",
+      "meb-anatomy"
+    ],
+    "latin": "Tibia"
+  },
+  {
+    "id": "fibula",
+    "category": "bones",
+    "en": "Fibula",
+    "tr": "Fibula",
+    "aliases": [
+      "calf bone",
+      "kamış kemiği"
+    ],
+    "definition": {
+      "en": "The slender lateral lower-leg bone, whose lower end forms the outer ankle prominence.",
+      "tr": "Alt bacağın ince dış kemiğidir; alt ucu dış ayak bileği çıkıntısını oluşturur."
+    },
+    "sourceIds": [
+      "os-leg-bones",
+      "meb-anatomy"
+    ],
+    "latin": "Fibula"
+  },
+  {
+    "id": "talus",
+    "category": "bones",
+    "en": "Talus",
+    "tr": "Talus",
+    "aliases": [
+      "ankle bone",
+      "aşık kemiği"
+    ],
+    "definition": {
+      "en": "The foot bone that articulates with the tibia and fibula at the ankle.",
+      "tr": "Ayak bileğinde tibia ve fibula ile eklem yapan ayak kemiğidir."
+    },
+    "sourceIds": [
+      "os-leg-bones",
+      "meb-anatomy"
+    ],
+    "latin": "Talus"
+  },
+  {
+    "id": "calcaneus",
+    "category": "bones",
+    "en": "Calcaneus",
+    "tr": "Topuk kemiği",
+    "aliases": [
+      "heel bone",
+      "kalkaneus"
+    ],
+    "definition": {
+      "en": "The large rear-foot bone forming the heel.",
+      "tr": "Ayağın arka bölümünde topuğu oluşturan büyük kemiktir."
+    },
+    "sourceIds": [
+      "os-leg-bones",
+      "meb-anatomy"
+    ],
+    "latin": "Calcaneus"
+  },
+  {
+    "id": "skull",
+    "category": "bones",
+    "en": "Skull",
+    "tr": "Kafatası",
+    "aliases": [
+      "cranium",
+      "kranyum"
+    ],
+    "definition": {
+      "en": "The bony framework of the head, protecting the brain and supporting the face.",
+      "tr": "Beyni koruyan ve yüzü destekleyen, başın kemik iskeletidir."
+    },
+    "sourceIds": [
+      "os-skull",
+      "meb-anatomy"
+    ],
+    "latin": "Cranium"
+  },
+  {
+    "id": "diaphragm",
+    "category": "muscles",
+    "en": "Diaphragm",
+    "tr": "Diyafram",
+    "aliases": [
+      "breathing diaphragm",
+      "solunum diyaframı"
+    ],
+    "definition": {
+      "en": "The main breathing muscle, separating the chest and abdominal cavities.",
+      "tr": "Göğüs ve karın boşluklarını ayıran başlıca solunum kasıdır."
+    },
+    "sourceIds": [
+      "os-trunk-muscles",
+      "hacettepe-kinesiology"
+    ],
+    "latin": "Diaphragma"
+  },
+  {
+    "id": "rectus-abdominis",
+    "category": "muscles",
+    "en": "Rectus abdominis",
+    "tr": "Düz karın kası",
+    "aliases": [
+      "six-pack muscle",
+      "rektus abdominis"
+    ],
+    "definition": {
+      "en": "A paired front abdominal muscle that flexes the trunk.",
+      "tr": "Karnın önünde çift olarak bulunan, gövdeyi öne büken kastır."
+    },
+    "sourceIds": [
+      "os-trunk-muscles",
+      "hacettepe-kinesiology"
+    ],
+    "latin": "Musculus rectus abdominis"
+  },
+  {
+    "id": "external-oblique",
+    "category": "muscles",
+    "en": "External oblique",
+    "tr": "Dış oblik karın kası",
+    "aliases": [
+      "external abdominal oblique",
+      "dış çapraz karın kası"
+    ],
+    "definition": {
+      "en": "A superficial abdominal muscle contributing to trunk rotation, bending, and abdominal compression.",
+      "tr": "Gövde dönüşüne, eğilmesine ve karnın sıkıştırılmasına katılan yüzeyel karın kasıdır."
+    },
+    "sourceIds": [
+      "os-trunk-muscles",
+      "hacettepe-kinesiology"
+    ],
+    "latin": "Musculus obliquus externus abdominis"
+  },
+  {
+    "id": "internal-oblique",
+    "category": "muscles",
+    "en": "Internal oblique",
+    "tr": "İç oblik karın kası",
+    "aliases": [
+      "internal abdominal oblique",
+      "iç çapraz karın kası"
+    ],
+    "definition": {
+      "en": "An abdominal muscle beneath the external oblique, contributing to trunk movement and abdominal compression.",
+      "tr": "Dış oblik kasın altında bulunan, gövde hareketine ve karnın sıkıştırılmasına katılan kastır."
+    },
+    "sourceIds": [
+      "os-trunk-muscles"
+    ],
+    "latin": "Musculus obliquus internus abdominis"
+  },
+  {
+    "id": "transversus-abdominis",
+    "category": "muscles",
+    "en": "Transversus abdominis",
+    "tr": "Enine karın kası",
+    "aliases": [
+      "transverse abdominis",
+      "transversus abdominis kası"
+    ],
+    "definition": {
+      "en": "A deep abdominal muscle with mostly horizontal fibers that compress the abdomen.",
+      "tr": "Çoğunlukla yatay lifleriyle karnı sıkıştıran derin karın kasıdır."
+    },
+    "sourceIds": [
+      "os-trunk-muscles"
+    ],
+    "latin": "Musculus transversus abdominis"
+  },
+  {
+    "id": "erector-spinae",
+    "category": "muscles",
+    "en": "Erector spinae",
+    "tr": "Omurga doğrultucu kaslar",
+    "aliases": [
+      "spinal erectors",
+      "erektör spina"
+    ],
+    "definition": {
+      "en": "A back-muscle group that extends and laterally bends the vertebral column.",
+      "tr": "Omurgayı geriye ve yana eğen sırt kası grubudur."
+    },
+    "sourceIds": [
+      "os-axial-muscles",
+      "hacettepe-kinesiology"
+    ],
+    "latin": "Musculus erector spinae"
+  },
+  {
+    "id": "multifidus",
+    "category": "muscles",
+    "en": "Multifidus",
+    "tr": "Multifidus",
+    "aliases": [
+      "multifidus muscle",
+      "çok parçalı kas"
+    ],
+    "definition": {
+      "en": "Deep muscles between vertebrae that help control spinal position and movement.",
+      "tr": "Omurlar arasında uzanan, omurganın konum ve hareket kontrolüne katılan derin kaslardır."
+    },
+    "sourceIds": [
+      "os-axial-muscles"
+    ],
+    "latin": "Musculus multifidus"
+  },
+  {
+    "id": "sternocleidomastoid",
+    "category": "muscles",
+    "en": "Sternocleidomastoid",
+    "tr": "Sternokleidomastoid",
+    "aliases": [
+      "SCM",
+      "SKM"
+    ],
+    "definition": {
+      "en": "A paired neck muscle involved in bending and rotating the head and neck.",
+      "tr": "Baş ve boynun eğilmesine ve dönmesine katılan çift boyun kasıdır."
+    },
+    "sourceIds": [
+      "os-axial-muscles",
+      "hacettepe-kinesiology"
+    ],
+    "latin": "Musculus sternocleidomastoideus"
+  },
+  {
+    "id": "trapezius",
+    "category": "muscles",
+    "en": "Trapezius",
+    "tr": "Trapez kası",
+    "aliases": [
+      "traps",
+      "trapezius kası"
+    ],
+    "definition": {
+      "en": "A broad neck-and-back muscle whose regions move and support the scapula.",
+      "tr": "Farklı bölümleri kürek kemiğini hareket ettiren ve destekleyen geniş boyun-sırt kasıdır."
+    },
+    "sourceIds": [
+      "os-arm-muscles",
+      "hacettepe-kinesiology"
+    ],
+    "latin": "Musculus trapezius"
+  },
+  {
+    "id": "deltoid",
+    "category": "muscles",
+    "en": "Deltoid",
+    "tr": "Deltoid kası",
+    "aliases": [
+      "shoulder cap muscle",
+      "omuz kası"
+    ],
+    "definition": {
+      "en": "The shoulder's superficial muscle; its regions raise the arm in different directions.",
+      "tr": "Omzun yüzeyel kasıdır; bölümleri kolu farklı yönlere kaldırır."
+    },
+    "sourceIds": [
+      "os-arm-muscles",
+      "hacettepe-kinesiology"
+    ],
+    "latin": "Musculus deltoideus"
+  },
+  {
+    "id": "pectoralis-major",
+    "category": "muscles",
+    "en": "Pectoralis major",
+    "tr": "Büyük göğüs kası",
+    "aliases": [
+      "pecs",
+      "pektoralis majör"
+    ],
+    "definition": {
+      "en": "A large chest muscle that brings the arm inward and rotates it medially.",
+      "tr": "Kolu gövdeye yaklaştıran ve içe döndüren büyük göğüs kasıdır."
+    },
+    "sourceIds": [
+      "os-arm-muscles",
+      "hacettepe-kinesiology"
+    ],
+    "latin": "Musculus pectoralis major"
+  },
+  {
+    "id": "latissimus-dorsi",
+    "category": "muscles",
+    "en": "Latissimus dorsi",
+    "tr": "Geniş sırt kası",
+    "aliases": [
+      "lats",
+      "latissimus dorsi kası"
+    ],
+    "definition": {
+      "en": "A broad back muscle contributing to shoulder extension, adduction, and medial rotation.",
+      "tr": "Omuz ekstansiyonu, addüksiyonu ve iç rotasyonuna katılan geniş sırt kasıdır."
+    },
+    "sourceIds": [
+      "os-arm-muscles",
+      "hacettepe-kinesiology"
+    ],
+    "latin": "Musculus latissimus dorsi"
+  },
+  {
+    "id": "serratus-anterior",
+    "category": "muscles",
+    "en": "Serratus anterior",
+    "tr": "Ön dişli kas",
+    "aliases": [
+      "serratus",
+      "serratus anterior kası"
+    ],
+    "definition": {
+      "en": "A rib-to-scapula muscle that draws the scapula forward and helps rotate it upward.",
+      "tr": "Kaburgalardan kürek kemiğine uzanır; kürek kemiğini öne çeker ve yukarı dönüşüne katılır."
+    },
+    "sourceIds": [
+      "os-arm-muscles",
+      "hacettepe-kinesiology"
+    ],
+    "latin": "Musculus serratus anterior"
+  },
+  {
+    "id": "rotator-cuff",
+    "category": "muscles",
+    "en": "Rotator cuff",
+    "tr": "Rotator manşet",
+    "aliases": [
+      "rotator cuff muscles",
+      "döndürücü manşet",
+      "SITS"
+    ],
+    "definition": {
+      "en": "Four shoulder muscles and their tendons that help move and stabilize the humeral head.",
+      "tr": "Humerus başının hareketine ve stabilitesine katkı sağlayan dört omuz kası ile tendonlarıdır."
+    },
+    "sourceIds": [
+      "os-selected-joints",
+      "hacettepe-kinesiology"
+    ]
+  },
+  {
+    "id": "biceps-brachii",
+    "category": "muscles",
+    "en": "Biceps brachii",
+    "tr": "İki başlı kol kası",
+    "aliases": [
+      "biceps",
+      "biseps",
+      "üst kol pazı kası"
+    ],
+    "definition": {
+      "en": "An anterior arm muscle that bends the elbow and supinates the forearm.",
+      "tr": "Üst kolun önünde bulunan; dirseği büken ve ön kola supinasyon yaptıran kastır."
+    },
+    "sourceIds": [
+      "os-arm-muscles",
+      "hacettepe-kinesiology"
+    ],
+    "latin": "Musculus biceps brachii"
+  },
+  {
+    "id": "triceps-brachii",
+    "category": "muscles",
+    "en": "Triceps brachii",
+    "tr": "Üç başlı kol kası",
+    "aliases": [
+      "triceps",
+      "triseps"
+    ],
+    "definition": {
+      "en": "The main elbow-extending muscle, located behind the upper arm.",
+      "tr": "Üst kolun arkasında bulunan, dirseği açan başlıca kastır."
+    },
+    "sourceIds": [
+      "os-arm-muscles",
+      "hacettepe-kinesiology"
+    ],
+    "latin": "Musculus triceps brachii"
+  },
+  {
+    "id": "gluteus-maximus",
+    "category": "muscles",
+    "en": "Gluteus maximus",
+    "tr": "Büyük kalça kası",
+    "aliases": [
+      "glutes",
+      "gluteus maksimus"
+    ],
+    "definition": {
+      "en": "A large buttock muscle that extends and laterally rotates the hip.",
+      "tr": "Kalçaya ekstansiyon ve dış rotasyon yaptıran büyük kalça kasıdır."
+    },
+    "sourceIds": [
+      "os-leg-muscles",
+      "hacettepe-kinesiology"
+    ],
+    "latin": "Musculus gluteus maximus"
+  },
+  {
+    "id": "gluteus-medius",
+    "category": "muscles",
+    "en": "Gluteus medius",
+    "tr": "Orta kalça kası",
+    "aliases": [
+      "glute med",
+      "gluteus medius kası"
+    ],
+    "definition": {
+      "en": "A lateral hip muscle that abducts the thigh and helps control pelvic position.",
+      "tr": "Uyluğu yana açan ve pelvis konumunun kontrolüne katılan dış kalça kasıdır."
+    },
+    "sourceIds": [
+      "os-leg-muscles",
+      "hacettepe-kinesiology"
+    ],
+    "latin": "Musculus gluteus medius"
+  },
+  {
+    "id": "iliopsoas",
+    "category": "muscles",
+    "en": "Iliopsoas",
+    "tr": "İliopsoas",
+    "aliases": [
+      "hip flexor complex",
+      "iliopsoas kas grubu"
+    ],
+    "definition": {
+      "en": "The iliacus and psoas major together, forming a major hip-flexor group.",
+      "tr": "İliakus ve psoas majörün birlikte oluşturduğu başlıca kalça bükücü kas grubudur."
+    },
+    "sourceIds": [
+      "os-leg-muscles",
+      "hacettepe-kinesiology"
+    ]
+  },
+  {
+    "id": "quadriceps",
+    "category": "muscles",
+    "en": "Quadriceps femoris",
+    "tr": "Kuadriseps",
+    "aliases": [
+      "quads",
+      "dört başlı uyluk kası"
+    ],
+    "definition": {
+      "en": "Four anterior thigh muscles that extend the knee.",
+      "tr": "Uyluğun önündeki, dizi açan dört kasın oluşturduğu gruptur."
+    },
+    "sourceIds": [
+      "os-leg-muscles",
+      "hacettepe-kinesiology"
+    ],
+    "latin": "Musculus quadriceps femoris"
+  },
+  {
+    "id": "hamstrings",
+    "category": "muscles",
+    "en": "Hamstrings",
+    "tr": "Hamstring kasları",
+    "aliases": [
+      "posterior thigh muscles",
+      "arka uyluk kasları",
+      "iskiyokrural kaslar"
+    ],
+    "definition": {
+      "en": "A posterior thigh group that bends the knee; most members also extend the hip.",
+      "tr": "Dizi büken arka uyluk kas grubudur; çoğu üyesi kalçayı da geriye götürür."
+    },
+    "sourceIds": [
+      "os-leg-muscles",
+      "hacettepe-kinesiology"
+    ]
+  },
+  {
+    "id": "hip-adductors",
+    "category": "muscles",
+    "en": "Hip adductors",
+    "tr": "Kalça addüktörleri",
+    "aliases": [
+      "adductor muscles",
+      "uyluk yaklaştırıcıları"
+    ],
+    "definition": {
+      "en": "An inner-thigh muscle group whose shared action brings the thigh toward the midline.",
+      "tr": "Ortak işlevi uyluğu orta hatta yaklaştırmak olan iç uyluk kas grubudur."
+    },
+    "sourceIds": [
+      "os-leg-muscles",
+      "hacettepe-kinesiology"
+    ]
+  },
+  {
+    "id": "gastrocnemius",
+    "category": "muscles",
+    "en": "Gastrocnemius",
+    "tr": "Gastroknemius",
+    "aliases": [
+      "calf muscle",
+      "ikiz baldır kası"
+    ],
+    "definition": {
+      "en": "A superficial calf muscle that plantarflexes the ankle and assists knee flexion.",
+      "tr": "Ayak bileğine plantar fleksiyon yaptıran ve diz bükülmesine yardım eden yüzeyel baldır kasıdır."
+    },
+    "sourceIds": [
+      "os-leg-muscles",
+      "hacettepe-kinesiology"
+    ],
+    "latin": "Musculus gastrocnemius"
+  },
+  {
+    "id": "soleus",
+    "category": "muscles",
+    "en": "Soleus",
+    "tr": "Soleus",
+    "aliases": [
+      "soleus muscle",
+      "derin baldır kası"
+    ],
+    "definition": {
+      "en": "A calf muscle beneath gastrocnemius that plantarflexes the ankle.",
+      "tr": "Gastroknemiusun altında bulunan, ayak bileğine plantar fleksiyon yaptıran baldır kasıdır."
+    },
+    "sourceIds": [
+      "os-leg-muscles",
+      "hacettepe-kinesiology"
+    ],
+    "latin": "Musculus soleus"
+  },
+  {
+    "id": "joint",
+    "category": "joints",
+    "en": "Joint",
+    "tr": "Eklem",
+    "aliases": [
+      "articulation"
+    ],
+    "definition": {
+      "en": "A connection between skeletal elements; its structure determines how much movement is possible.",
+      "tr": "İskelet elemanları arasındaki bağlantıdır; yapısı hareketin ne ölçüde mümkün olduğunu belirler."
+    },
+    "sourceIds": [
+      "os-joint-types"
+    ],
+    "latin": "Articulatio"
+  },
+  {
+    "id": "synovial-joint",
+    "category": "joints",
+    "en": "Synovial joint",
+    "tr": "Sinovyal eklem",
+    "aliases": [
+      "freely movable joint",
+      "oynar eklem"
+    ],
+    "definition": {
+      "en": "A joint with a fluid-containing cavity enclosed by a capsule.",
+      "tr": "Kapsülle çevrili, sıvı içeren bir eklem boşluğuna sahip eklemdir."
+    },
+    "sourceIds": [
+      "os-synovial-joints"
+    ]
+  },
+  {
+    "id": "hinge-joint",
+    "category": "joints",
+    "en": "Hinge joint",
+    "tr": "Menteşe eklem",
+    "aliases": [
+      "ginglymus",
+      "ginglimus"
+    ],
+    "definition": {
+      "en": "A synovial joint allowing mainly bending and straightening around one axis.",
+      "tr": "Başlıca tek eksende bükülme ve açılmaya izin veren sinovyal eklem tipidir."
+    },
+    "sourceIds": [
+      "os-synovial-joints"
+    ],
+    "latin": "Ginglymus"
+  },
+  {
+    "id": "ball-and-socket-joint",
+    "category": "joints",
+    "en": "Ball-and-socket joint",
+    "tr": "Küresel eklem",
+    "aliases": [
+      "spheroidal joint",
+      "top-yuva eklemi"
+    ],
+    "definition": {
+      "en": "A rounded bone head fits into a socket, allowing movement around several axes.",
+      "tr": "Yuvarlak kemik başının bir yuvaya oturduğu, birden fazla eksende harekete izin veren eklemdir."
+    },
+    "sourceIds": [
+      "os-synovial-joints"
+    ]
+  },
+  {
+    "id": "shoulder-joint",
+    "category": "joints",
+    "en": "Shoulder joint",
+    "tr": "Omuz eklemi",
+    "aliases": [
+      "glenohumeral joint",
+      "glenohumeral eklem"
+    ],
+    "definition": {
+      "en": "The ball-and-socket joint between the humeral head and the scapula's glenoid cavity.",
+      "tr": "Humerus başı ile kürek kemiğinin glenoid çukuru arasındaki küresel eklemdir."
+    },
+    "sourceIds": [
+      "os-selected-joints"
+    ],
+    "latin": "Articulatio glenohumeralis"
+  },
+  {
+    "id": "hip-joint",
+    "category": "joints",
+    "en": "Hip joint",
+    "tr": "Kalça eklemi",
+    "aliases": [
+      "coxal joint"
+    ],
+    "definition": {
+      "en": "The ball-and-socket joint between the femoral head and the pelvis's acetabulum.",
+      "tr": "Femur başı ile pelvisteki asetabulum arasındaki küresel eklemdir."
+    },
+    "sourceIds": [
+      "os-selected-joints"
+    ],
+    "latin": "Articulatio coxae"
+  },
+  {
+    "id": "knee-joint",
+    "category": "joints",
+    "en": "Knee joint",
+    "tr": "Diz eklemi",
+    "aliases": [
+      "tibiofemoral joint",
+      "patellofemoral joint"
+    ],
+    "definition": {
+      "en": "The joint complex involving the femur, tibia, and patella, allowing bending, straightening, and some rotation.",
+      "tr": "Femur, tibia ve patellayı içeren; bükülme, açılma ve bir miktar dönüşe izin veren eklem bütünüdür."
+    },
+    "sourceIds": [
+      "os-selected-joints"
+    ],
+    "latin": "Articulatio genus"
+  },
+  {
+    "id": "elbow-joint",
+    "category": "joints",
+    "en": "Elbow joint",
+    "tr": "Dirsek eklemi",
+    "aliases": [
+      "elbow complex"
+    ],
+    "definition": {
+      "en": "A joint complex involving the humerus, ulna, and radius, enabling elbow bending and forearm rotation.",
+      "tr": "Humerus, ulna ve radiusu içeren; dirsek bükülmesini ve ön kol dönüşünü sağlayan eklem bütünüdür."
+    },
+    "sourceIds": [
+      "os-selected-joints"
+    ],
+    "latin": "Articulatio cubiti"
+  },
+  {
+    "id": "ankle-joint",
+    "category": "joints",
+    "en": "Ankle joint",
+    "tr": "Ayak bileği eklemi",
+    "aliases": [
+      "talocrural joint",
+      "talokrural eklem"
+    ],
+    "definition": {
+      "en": "The joint between the tibia, fibula, and talus, mainly allowing dorsiflexion and plantarflexion.",
+      "tr": "Tibia, fibula ve talus arasındaki, başlıca dorsifleksiyon ve plantar fleksiyona izin veren eklemdir."
+    },
+    "sourceIds": [
+      "os-selected-joints"
+    ],
+    "latin": "Articulatio talocruralis"
+  },
+  {
+    "id": "wrist-joint",
+    "category": "joints",
+    "en": "Wrist joint",
+    "tr": "El bileği eklemi",
+    "aliases": [
+      "radiocarpal joint",
+      "radyokarpal eklem"
+    ],
+    "definition": {
+      "en": "The radiocarpal joint connects the forearm with the proximal carpal row and permits bending and side-to-side movement.",
+      "tr": "Ön kol ile yakın sıra el bileği kemikleri arasındaki radyokarpal eklemdir; bükülme ve yana hareketlere izin verir."
+    },
+    "sourceIds": [
+      "os-arm-bones",
+      "os-synovial-joints"
+    ],
+    "latin": "Articulatio radiocarpalis"
+  },
+  {
+    "id": "sacroiliac-joint",
+    "category": "joints",
+    "en": "Sacroiliac joint",
+    "tr": "Sakroiliak eklem",
+    "aliases": [
+      "SI joint",
+      "SI eklem"
+    ],
+    "definition": {
+      "en": "The connection between the sacrum and ilium, transferring load between spine and pelvis.",
+      "tr": "Sakrum ile ilium arasındaki, omurga ve pelvis arasında yük aktaran bağlantıdır."
+    },
+    "sourceIds": [
+      "os-pelvis"
+    ],
+    "latin": "Articulatio sacroiliaca"
+  },
+  {
+    "id": "facet-joint",
+    "category": "joints",
+    "en": "Facet joint",
+    "tr": "Faset eklemi",
+    "aliases": [
+      "zygapophyseal joint",
+      "zigapofizyal eklem"
+    ],
+    "definition": {
+      "en": "A small synovial joint between the articular processes of neighboring vertebrae.",
+      "tr": "Komşu omurların eklem çıkıntıları arasındaki küçük sinovyal eklemdir."
+    },
+    "sourceIds": [
+      "os-spine"
+    ],
+    "latin": "Articulatio zygapophysialis"
+  },
+  {
+    "id": "pubic-symphysis",
+    "category": "joints",
+    "en": "Pubic symphysis",
+    "tr": "Pubis simfizi",
+    "aliases": [
+      "symphysis pubis",
+      "simfizis pubis"
+    ],
+    "definition": {
+      "en": "A fibrocartilaginous joint uniting the left and right pubic bones at the front of the pelvis.",
+      "tr": "Pelvisin önünde sağ ve sol pubis kemiklerini birleştiren fibröz kıkırdaklı eklemdir."
+    },
+    "sourceIds": [
+      "os-cartilaginous-joints"
+    ],
+    "latin": "Symphysis pubica"
+  },
+  {
+    "id": "fibrous-joint",
+    "category": "joints",
+    "en": "Fibrous joint",
+    "tr": "Fibröz eklem",
+    "aliases": [
+      "fibrous articulation",
+      "lifli eklem"
+    ],
+    "definition": {
+      "en": "A joint whose bones are linked by dense connective tissue, without a joint cavity.",
+      "tr": "Kemiklerin yoğun bağ dokusuyla birleştiği, eklem boşluğu bulunmayan eklem tipidir."
+    },
+    "sourceIds": [
+      "os-fibrous-joints"
+    ]
+  },
+  {
+    "id": "anatomical-position",
+    "category": "directions",
+    "en": "Anatomical position",
+    "tr": "Anatomik duruş",
+    "aliases": [
+      "anatomical reference position",
+      "anatomik pozisyon"
+    ],
+    "definition": {
+      "en": "The reference stance: upright, facing forward, arms at the sides, palms forward.",
+      "tr": "Dik durulan, yüzün öne, yanlardaki kolların avuç içlerinin de öne baktığı referans duruşudur."
+    },
+    "sourceIds": [
+      "os-terminology",
+      "biruni-terminology"
+    ]
+  },
+  {
+    "id": "anterior",
+    "category": "directions",
+    "en": "Anterior",
+    "tr": "Ön",
+    "aliases": [
+      "front",
+      "anteriyor"
+    ],
+    "definition": {
+      "en": "Closer to the front of the body in anatomical position.",
+      "tr": "Anatomik duruşta vücudun ön tarafına daha yakın olanı belirtir."
+    },
+    "sourceIds": [
+      "seer-terminology",
+      "biruni-terminology"
+    ],
+    "latin": "Anterior"
+  },
+  {
+    "id": "posterior",
+    "category": "directions",
+    "en": "Posterior",
+    "tr": "Arka",
+    "aliases": [
+      "back",
+      "posteriyor"
+    ],
+    "definition": {
+      "en": "Closer to the back of the body in anatomical position.",
+      "tr": "Anatomik duruşta vücudun arka tarafına daha yakın olanı belirtir."
+    },
+    "sourceIds": [
+      "seer-terminology",
+      "biruni-terminology"
+    ],
+    "latin": "Posterior"
+  },
+  {
+    "id": "superior",
+    "category": "directions",
+    "en": "Superior",
+    "tr": "Üst",
+    "aliases": [
+      "above",
+      "süperiyor"
+    ],
+    "definition": {
+      "en": "Closer to the head, relative to another structure.",
+      "tr": "Başka bir yapıya göre başa daha yakın konumu belirtir."
+    },
+    "sourceIds": [
+      "seer-terminology",
+      "biruni-terminology"
+    ],
+    "latin": "Superior"
+  },
+  {
+    "id": "inferior",
+    "category": "directions",
+    "en": "Inferior",
+    "tr": "Alt",
+    "aliases": [
+      "below",
+      "inferiyor"
+    ],
+    "definition": {
+      "en": "Farther from the head, relative to another structure.",
+      "tr": "Başka bir yapıya göre baştan daha uzak konumu belirtir."
+    },
+    "sourceIds": [
+      "seer-terminology",
+      "biruni-terminology"
+    ],
+    "latin": "Inferior"
+  },
+  {
+    "id": "medial",
+    "category": "directions",
+    "en": "Medial",
+    "tr": "Medial",
+    "aliases": [
+      "toward midline",
+      "orta hatta yakın"
+    ],
+    "definition": {
+      "en": "Closer to the body's midline.",
+      "tr": "Vücudun orta hattına daha yakın konumu belirtir."
+    },
+    "sourceIds": [
+      "seer-terminology",
+      "biruni-terminology"
+    ],
+    "latin": "Medialis"
+  },
+  {
+    "id": "lateral",
+    "category": "directions",
+    "en": "Lateral",
+    "tr": "Lateral",
+    "aliases": [
+      "away from midline",
+      "orta hattan uzak"
+    ],
+    "definition": {
+      "en": "Farther from the body's midline.",
+      "tr": "Vücudun orta hattından daha uzak konumu belirtir."
+    },
+    "sourceIds": [
+      "seer-terminology",
+      "biruni-terminology"
+    ],
+    "latin": "Lateralis"
+  },
+  {
+    "id": "proximal",
+    "category": "directions",
+    "en": "Proximal",
+    "tr": "Proksimal",
+    "aliases": [
+      "near attachment",
+      "başlangıca yakın"
+    ],
+    "definition": {
+      "en": "Closer to a structure's attachment or point of origin.",
+      "tr": "Bir yapının bağlanma ya da başlangıç noktasına daha yakın konumu belirtir."
+    },
+    "sourceIds": [
+      "seer-terminology",
+      "biruni-terminology"
+    ],
+    "latin": "Proximalis"
+  },
+  {
+    "id": "distal",
+    "category": "directions",
+    "en": "Distal",
+    "tr": "Distal",
+    "aliases": [
+      "far from attachment",
+      "başlangıçtan uzak"
+    ],
+    "definition": {
+      "en": "Farther from a structure's attachment or point of origin.",
+      "tr": "Bir yapının bağlanma ya da başlangıç noktasından daha uzak konumu belirtir."
+    },
+    "sourceIds": [
+      "seer-terminology",
+      "biruni-terminology"
+    ],
+    "latin": "Distalis"
+  },
+  {
+    "id": "superficial",
+    "category": "directions",
+    "en": "Superficial",
+    "tr": "Yüzeyel",
+    "aliases": [
+      "surface",
+      "superfisiyal"
+    ],
+    "definition": {
+      "en": "Closer to the body's surface than another structure.",
+      "tr": "Başka bir yapıya göre vücut yüzeyine daha yakın olanı belirtir."
+    },
+    "sourceIds": [
+      "os-terminology",
+      "biruni-terminology"
+    ],
+    "latin": "Superficialis"
+  },
+  {
+    "id": "deep",
+    "category": "directions",
+    "en": "Deep",
+    "tr": "Derin",
+    "aliases": [
+      "profundus"
+    ],
+    "definition": {
+      "en": "Farther from the body's surface than another structure.",
+      "tr": "Başka bir yapıya göre vücut yüzeyinden daha uzak olanı belirtir."
+    },
+    "sourceIds": [
+      "os-terminology",
+      "biruni-terminology"
+    ],
+    "latin": "Profundus"
+  },
+  {
+    "id": "sagittal-plane",
+    "category": "directions",
+    "en": "Sagittal plane",
+    "tr": "Sagital düzlem",
+    "aliases": [
+      "sagittal",
+      "sağ-sol düzlemi"
+    ],
+    "definition": {
+      "en": "A vertical plane dividing the body into right and left portions.",
+      "tr": "Vücudu sağ ve sol bölümlere ayıran dikey düzlemdir."
+    },
+    "sourceIds": [
+      "os-terminology",
+      "biruni-terminology"
+    ],
+    "latin": "Planum sagittale"
+  },
+  {
+    "id": "frontal-plane",
+    "category": "directions",
+    "en": "Frontal plane",
+    "tr": "Frontal düzlem",
+    "aliases": [
+      "coronal plane",
+      "koronal düzlem"
+    ],
+    "definition": {
+      "en": "A vertical plane dividing the body into front and back portions.",
+      "tr": "Vücudu ön ve arka bölümlere ayıran dikey düzlemdir."
+    },
+    "sourceIds": [
+      "os-terminology",
+      "biruni-terminology"
+    ],
+    "latin": "Planum frontale"
+  },
+  {
+    "id": "transverse-plane",
+    "category": "directions",
+    "en": "Transverse plane",
+    "tr": "Transvers düzlem",
+    "aliases": [
+      "horizontal plane",
+      "axial plane",
+      "yatay düzlem",
+      "enine düzlem"
+    ],
+    "definition": {
+      "en": "A plane dividing the body into upper and lower portions in anatomical position.",
+      "tr": "Anatomik duruşta vücudu üst ve alt bölümlere ayıran düzlemdir."
+    },
+    "sourceIds": [
+      "os-terminology",
+      "biruni-terminology"
+    ],
+    "latin": "Planum transversum"
+  },
+  {
+    "id": "supine",
+    "category": "directions",
+    "en": "Supine",
+    "tr": "Sırtüstü",
+    "aliases": [
+      "supine position",
+      "supin pozisyon"
+    ],
+    "definition": {
+      "en": "Lying on the back with the front of the body facing upward.",
+      "tr": "Vücudun ön yüzü yukarı bakacak şekilde sırtüstü yatma konumudur."
+    },
+    "sourceIds": [
+      "os-terminology"
+    ]
+  },
+  {
+    "id": "prone",
+    "category": "directions",
+    "en": "Prone",
+    "tr": "Yüzüstü",
+    "aliases": [
+      "prone position",
+      "pron pozisyon"
+    ],
+    "definition": {
+      "en": "Lying with the front of the body facing downward.",
+      "tr": "Vücudun ön yüzü aşağı bakacak şekilde yatma konumudur."
+    },
+    "sourceIds": [
+      "os-terminology"
+    ]
+  },
+  {
+    "id": "flexion",
+    "category": "movements",
+    "en": "Flexion",
+    "tr": "Fleksiyon",
+    "aliases": [
+      "bending",
+      "bükülme"
+    ],
+    "definition": {
+      "en": "A bending movement that usually decreases the angle between adjoining body segments.",
+      "tr": "Genellikle komşu vücut bölümleri arasındaki açıyı küçülten bükülme hareketidir."
+    },
+    "sourceIds": [
+      "os-joint-key-terms"
+    ]
+  },
+  {
+    "id": "extension",
+    "category": "movements",
+    "en": "Extension",
+    "tr": "Ekstansiyon",
+    "aliases": [
+      "straightening",
+      "ekstensiyon",
+      "açılma"
+    ],
+    "definition": {
+      "en": "A movement that straightens a flexed joint or moves it in the opposite direction to flexion.",
+      "tr": "Bükülmüş eklemi açan ya da fleksiyonun ters yönünde gerçekleşen harekettir."
+    },
+    "sourceIds": [
+      "os-joint-key-terms"
+    ]
+  },
+  {
+    "id": "abduction",
+    "category": "movements",
+    "en": "Abduction",
+    "tr": "Abdüksiyon",
+    "aliases": [
+      "abduksiyon",
+      "uzaklaştırma"
+    ],
+    "definition": {
+      "en": "Movement away from the body's midline; digits use the hand's or foot's reference axis.",
+      "tr": "Vücudun orta hattından uzaklaşmadır; parmaklarda elin veya ayağın referans ekseni kullanılır."
+    },
+    "sourceIds": [
+      "os-joint-key-terms"
+    ]
+  },
+  {
+    "id": "adduction",
+    "category": "movements",
+    "en": "Adduction",
+    "tr": "Addüksiyon",
+    "aliases": [
+      "adduksiyon",
+      "yaklaştırma"
+    ],
+    "definition": {
+      "en": "Movement toward the body's midline; digits use the hand's or foot's reference axis.",
+      "tr": "Vücudun orta hattına yaklaşmadır; parmaklarda elin veya ayağın referans ekseni kullanılır."
+    },
+    "sourceIds": [
+      "os-joint-key-terms"
+    ]
+  },
+  {
+    "id": "internal-rotation",
+    "category": "movements",
+    "en": "Internal rotation",
+    "tr": "İç rotasyon",
+    "aliases": [
+      "medial rotation",
+      "medial rotasyon",
+      "içe dönüş"
+    ],
+    "definition": {
+      "en": "Rotation of a limb around its long axis toward the body's midline.",
+      "tr": "Bir uzvun uzun ekseni çevresinde vücudun orta hattına doğru dönmesidir."
+    },
+    "sourceIds": [
+      "os-joint-key-terms"
+    ]
+  },
+  {
+    "id": "external-rotation",
+    "category": "movements",
+    "en": "External rotation",
+    "tr": "Dış rotasyon",
+    "aliases": [
+      "lateral rotation",
+      "lateral rotasyon",
+      "dışa dönüş"
+    ],
+    "definition": {
+      "en": "Rotation of a limb around its long axis away from the body's midline.",
+      "tr": "Bir uzvun uzun ekseni çevresinde vücudun orta hattından uzağa dönmesidir."
+    },
+    "sourceIds": [
+      "os-joint-key-terms"
+    ]
+  },
+  {
+    "id": "lateral-flexion",
+    "category": "movements",
+    "en": "Lateral flexion",
+    "tr": "Lateral fleksiyon",
+    "aliases": [
+      "side bending",
+      "yana eğilme"
+    ],
+    "definition": {
+      "en": "Bending the neck or trunk to the right or left.",
+      "tr": "Boynun ya da gövdenin sağa veya sola eğilmesidir."
+    },
+    "sourceIds": [
+      "os-movements"
+    ]
+  },
+  {
+    "id": "circumduction",
+    "category": "movements",
+    "en": "Circumduction",
+    "tr": "Sirkumdüksiyon",
+    "aliases": [
+      "circumduction movement",
+      "dairesel hareket"
+    ],
+    "definition": {
+      "en": "A sequence of bending, outward movement, straightening, and inward movement that traces a cone.",
+      "tr": "Bükülme, uzaklaşma, açılma ve yaklaşmanın birleşerek koni biçimli bir hareket oluşturmasıdır."
+    },
+    "sourceIds": [
+      "biruni-terminology"
+    ]
+  },
+  {
+    "id": "pronation",
+    "category": "movements",
+    "en": "Forearm pronation",
+    "tr": "Ön kol pronasyonu",
+    "aliases": [
+      "pronation",
+      "pronasyon"
+    ],
+    "definition": {
+      "en": "Forearm rotation that turns the palm backward from anatomical position, with the radius crossing the ulna.",
+      "tr": "Anatomik duruştan avuç içini arkaya çeviren ön kol dönüşüdür; radius ulna üzerinde çaprazlaşır."
+    },
+    "sourceIds": [
+      "os-movements"
+    ]
+  },
+  {
+    "id": "supination",
+    "category": "movements",
+    "en": "Forearm supination",
+    "tr": "Ön kol supinasyonu",
+    "aliases": [
+      "supination",
+      "supinasyon"
+    ],
+    "definition": {
+      "en": "Forearm rotation toward a palm-forward anatomical position, bringing the radius and ulna parallel.",
+      "tr": "Avuç içinin öne baktığı anatomik duruşa yönelen, radius ve ulnayı paralelleştiren ön kol dönüşüdür."
+    },
+    "sourceIds": [
+      "os-movements"
+    ]
+  },
+  {
+    "id": "dorsiflexion",
+    "category": "movements",
+    "en": "Dorsiflexion",
+    "tr": "Dorsifleksiyon",
+    "aliases": [
+      "dorsal flexion",
+      "dorsi fleksiyon"
+    ],
+    "definition": {
+      "en": "Ankle movement bringing the top of the foot toward the shin.",
+      "tr": "Ayağın üst yüzünü kaval kemiğine yaklaştıran ayak bileği hareketidir."
+    },
+    "sourceIds": [
+      "os-movements"
+    ]
+  },
+  {
+    "id": "plantar-flexion",
+    "category": "movements",
+    "en": "Plantar flexion",
+    "tr": "Plantar fleksiyon",
+    "aliases": [
+      "plantarflexion",
+      "ayağı aşağı uzatma"
+    ],
+    "definition": {
+      "en": "Ankle movement directing the foot away from the shin, as when pointing the toes.",
+      "tr": "Parmak ucunu uzatırken olduğu gibi ayağı kaval kemiğinden uzaklaştıran ayak bileği hareketidir."
+    },
+    "sourceIds": [
+      "os-movements"
+    ]
+  },
+  {
+    "id": "inversion",
+    "category": "movements",
+    "en": "Inversion",
+    "tr": "İnversiyon",
+    "aliases": [
+      "sole inward",
+      "tabanı içe çevirme"
+    ],
+    "definition": {
+      "en": "Turning the sole of the foot toward the body's midline.",
+      "tr": "Ayak tabanının vücudun orta hattına doğru dönmesidir."
+    },
+    "sourceIds": [
+      "biruni-terminology"
+    ]
+  },
+  {
+    "id": "eversion",
+    "category": "movements",
+    "en": "Eversion",
+    "tr": "Eversiyon",
+    "aliases": [
+      "sole outward",
+      "tabanı dışa çevirme"
+    ],
+    "definition": {
+      "en": "Turning the sole of the foot away from the body's midline.",
+      "tr": "Ayak tabanının vücudun orta hattından dışa doğru dönmesidir."
+    },
+    "sourceIds": [
+      "biruni-terminology"
+    ]
+  },
+  {
+    "id": "elevation",
+    "category": "movements",
+    "en": "Elevation",
+    "tr": "Elevasyon",
+    "aliases": [
+      "raising",
+      "yükselme"
+    ],
+    "definition": {
+      "en": "Upward movement of a body part, such as raising the scapula.",
+      "tr": "Kürek kemiğinin yükselmesi gibi, bir vücut bölümünün yukarı hareketidir."
+    },
+    "sourceIds": [
+      "os-movements"
+    ]
+  },
+  {
+    "id": "depression",
+    "category": "movements",
+    "en": "Depression",
+    "tr": "Depresyon",
+    "aliases": [
+      "lowering",
+      "aşağı inme"
+    ],
+    "definition": {
+      "en": "Downward movement of a body part, such as lowering the scapula.",
+      "tr": "Kürek kemiğinin alçalması gibi, bir vücut bölümünün aşağı hareketidir."
+    },
+    "sourceIds": [
+      "os-movements"
+    ]
+  },
+  {
+    "id": "protraction",
+    "category": "movements",
+    "en": "Protraction",
+    "tr": "Protraksiyon",
+    "aliases": [
+      "forward movement",
+      "öne ilerleme"
+    ],
+    "definition": {
+      "en": "Forward movement; scapular protraction carries the shoulder blades around the rib cage away from the spine.",
+      "tr": "Öne ilerlemedir; skapular protraksiyonda kürek kemikleri göğüs kafesi boyunca omurgadan uzaklaşır."
+    },
+    "sourceIds": [
+      "os-arm-muscles"
+    ]
+  },
+  {
+    "id": "retraction",
+    "category": "movements",
+    "en": "Retraction",
+    "tr": "Retraksiyon",
+    "aliases": [
+      "backward movement",
+      "geriye çekilme"
+    ],
+    "definition": {
+      "en": "Backward movement; scapular retraction draws the shoulder blades toward the spine.",
+      "tr": "Geriye çekilmedir; skapular retraksiyonda kürek kemikleri omurgaya yaklaşır."
+    },
+    "sourceIds": [
+      "os-arm-muscles"
+    ]
+  },
+  {
+    "id": "bone-tissue",
+    "category": "tissues",
+    "en": "Bone tissue",
+    "tr": "Kemik dokusu",
+    "aliases": [
+      "osseous tissue",
+      "osseöz doku"
+    ],
+    "definition": {
+      "en": "A living, mineralized connective tissue that provides skeletal support.",
+      "tr": "İskelet desteğini sağlayan, mineral içeren canlı bağ dokusudur."
+    },
+    "sourceIds": [
+      "os-bone-structure"
+    ]
+  },
+  {
+    "id": "cartilage",
+    "category": "tissues",
+    "en": "Cartilage",
+    "tr": "Kıkırdak",
+    "aliases": [
+      "cartilaginous tissue",
+      "kıkırdak dokusu"
+    ],
+    "definition": {
+      "en": "A firm connective tissue that supports structures and forms smooth surfaces at many joints.",
+      "tr": "Yapılara destek veren ve birçok eklemde düzgün yüzeyler oluşturan sıkı bağ dokusudur."
+    },
+    "sourceIds": [
+      "os-connective-tissue"
+    ]
+  },
+  {
+    "id": "connective-tissue",
+    "category": "tissues",
+    "en": "Connective tissue",
+    "tr": "Bağ dokusu",
+    "aliases": [
+      "supporting tissue",
+      "destek dokusu"
+    ],
+    "definition": {
+      "en": "Tissue with cells in an extracellular matrix, serving roles such as support, connection, and protection.",
+      "tr": "Hücreleri hücre dışı matriks içinde bulunan; destek, bağlantı ve koruma gibi görevleri olan dokudur."
+    },
+    "sourceIds": [
+      "os-connective-tissue"
+    ]
+  },
+  {
+    "id": "tendon",
+    "category": "tissues",
+    "en": "Tendon",
+    "tr": "Tendon",
+    "aliases": [
+      "sinew",
+      "kiriş"
+    ],
+    "definition": {
+      "en": "A strong connective-tissue structure transmitting muscle force, commonly to bone.",
+      "tr": "Kas kuvvetini genellikle kemiğe aktaran sağlam bağ dokusu yapısıdır."
+    },
+    "sourceIds": [
+      "os-connective-tissue"
+    ],
+    "latin": "Tendo"
+  },
+  {
+    "id": "ligament",
+    "category": "tissues",
+    "en": "Ligament",
+    "tr": "Ligament",
+    "aliases": [
+      "ligamental band",
+      "bağ"
+    ],
+    "definition": {
+      "en": "A connective-tissue band that commonly links bones and helps guide or limit joint movement.",
+      "tr": "Genellikle kemikleri bağlayan, eklem hareketini yönlendirmeye veya sınırlamaya yardımcı bağ dokusu şerididir."
+    },
+    "sourceIds": [
+      "os-connective-tissue"
+    ],
+    "latin": "Ligamentum"
+  },
+  {
+    "id": "fascia",
+    "category": "tissues",
+    "en": "Fascia",
+    "tr": "Fasya",
+    "aliases": [
+      "fascial tissue",
+      "fasiyal doku"
+    ],
+    "definition": {
+      "en": "Connective-tissue layers that surround and separate muscles and other structures.",
+      "tr": "Kasları ve diğer yapıları çevreleyen ve birbirinden ayıran bağ dokusu katmanlarıdır."
+    },
+    "sourceIds": [
+      "nlm-fascia"
+    ],
+    "latin": "Fascia"
+  },
+  {
+    "id": "aponeurosis",
+    "category": "tissues",
+    "en": "Aponeurosis",
+    "tr": "Aponevroz",
+    "aliases": [
+      "sheet tendon",
+      "yassı tendon"
+    ],
+    "definition": {
+      "en": "A broad, sheet-like tendon that transmits muscle force to another structure.",
+      "tr": "Kas kuvvetini başka bir yapıya aktaran geniş, levha biçimli tendondur."
+    },
+    "sourceIds": [
+      "os-muscle-structure"
+    ],
+    "latin": "Aponeurosis"
+  },
+  {
+    "id": "articular-capsule",
+    "category": "tissues",
+    "en": "Articular capsule",
+    "tr": "Eklem kapsülü",
+    "aliases": [
+      "joint capsule"
+    ],
+    "definition": {
+      "en": "The enclosing structure around a synovial joint, with a fibrous layer and inner synovial lining.",
+      "tr": "Sinovyal eklemi çevreleyen, lifli dış katman ve iç sinovyal örtü içeren yapıdır."
+    },
+    "sourceIds": [
+      "seer-articulations"
+    ],
+    "latin": "Capsula articularis"
+  },
+  {
+    "id": "synovial-fluid",
+    "category": "tissues",
+    "en": "Synovial fluid",
+    "tr": "Sinovyal sıvı",
+    "aliases": [
+      "joint fluid",
+      "eklem sıvısı"
+    ],
+    "definition": {
+      "en": "Fluid within synovial joints that lubricates movement and helps nourish articular cartilage.",
+      "tr": "Sinovyal eklemlerde hareketi kayganlaştıran ve eklem kıkırdağının beslenmesine yardım eden sıvıdır."
+    },
+    "sourceIds": [
+      "os-synovial-joints"
+    ],
+    "latin": "Synovia"
+  },
+  {
+    "id": "bursa",
+    "category": "tissues",
+    "en": "Bursa",
+    "tr": "Bursa",
+    "aliases": [
+      "synovial bursa",
+      "sinovyal kese"
+    ],
+    "definition": {
+      "en": "A small fluid-containing sac that reduces friction between moving tissues.",
+      "tr": "Hareket eden dokular arasındaki sürtünmeyi azaltan, sıvı içeren küçük kesedir."
+    },
+    "sourceIds": [
+      "os-synovial-joints"
+    ],
+    "latin": "Bursa synovialis"
+  },
+  {
+    "id": "meniscus",
+    "category": "tissues",
+    "en": "Meniscus",
+    "tr": "Menisküs",
+    "aliases": [
+      "menisci",
+      "diz menisküsü"
+    ],
+    "definition": {
+      "en": "A fibrocartilage structure within certain joints; knee menisci improve fit and distribute load.",
+      "tr": "Bazı eklemlerdeki fibröz kıkırdak yapıdır; diz menisküsleri yüzey uyumunu artırır ve yükü dağıtır."
+    },
+    "sourceIds": [
+      "os-selected-joints"
+    ],
+    "latin": "Meniscus"
+  },
+  {
+    "id": "intervertebral-disc",
+    "category": "tissues",
+    "en": "Intervertebral disc",
+    "tr": "Omurlar arası disk",
+    "aliases": [
+      "spinal disc",
+      "intervertebral disk"
+    ],
+    "definition": {
+      "en": "A structure between most adjacent vertebral bodies, with a fibrous outer ring and softer center.",
+      "tr": "Çoğu komşu omur gövdesi arasında bulunan, lifli dış halka ve daha yumuşak merkez içeren yapıdır."
+    },
+    "sourceIds": [
+      "os-cartilaginous-joints"
+    ],
+    "latin": "Discus intervertebralis"
+  },
+  {
+    "id": "skeletal-muscle-tissue",
+    "category": "tissues",
+    "en": "Skeletal muscle tissue",
+    "tr": "İskelet kası dokusu",
+    "aliases": [
+      "striated skeletal muscle",
+      "çizgili iskelet kası"
+    ],
+    "definition": {
+      "en": "Contractile tissue whose activity produces movement, supports posture, and generates heat.",
+      "tr": "Etkinliği hareket oluşturan, duruşu destekleyen ve ısı üreten kasılabilir dokudur."
+    },
+    "sourceIds": [
+      "os-muscle-tissue"
+    ]
+  },
+  {
+    "id": "nerve",
+    "category": "tissues",
+    "en": "Nerve",
+    "tr": "Sinir",
+    "aliases": [
+      "peripheral nerve",
+      "periferik sinir"
+    ],
+    "definition": {
+      "en": "A bundle of nerve fibers carrying signals between the central nervous system and the body.",
+      "tr": "Merkezi sinir sistemi ile vücut arasında sinyal taşıyan sinir lifi demetidir."
+    },
+    "sourceIds": [
+      "nci-nerve"
+    ],
+    "latin": "Nervus"
+  }
+]
